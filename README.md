@@ -1,3 +1,3 @@
 # Implement-Queue-Using-Stack
 
-You have use the Queue structure of mine ti implement this code
+You have use the Queue structure of mine to implement this code
